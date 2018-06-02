@@ -1,0 +1,13 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+    width: 30%;
+    margin: auto
+}
+
+li{
+    border-bottom: 1px solid green;
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
